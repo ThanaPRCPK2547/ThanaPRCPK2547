@@ -1,5 +1,6 @@
 Hi there! I'm Film 👋
-I'm an Data & AI Engineer based in Thailand. 🏰
+
+I'm a Data & AI Engineer based in Thailand. 🏰
 
 Currently a student at Bangkok University (BU), I am focused on building scalable Data Pipelines, implementing Machine Learning and Predictive Models, and turning raw data into meaningful insights.
 
